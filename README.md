@@ -27,3 +27,8 @@ It automates the entire process using FFmpeg, applying dynamic scaling, backgrou
 Check FFmpeg:
 ```bash
 ffmpeg -version
+
+## Author
+
+Luis Monge Narvaez
+
