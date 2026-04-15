@@ -13,11 +13,11 @@ Turn horizontal videos into vertical content in seconds.
 
 <p align="center">
   <strong>After (Vertical with Blur)</strong><br>
-  <img src="After.png" width="300"/>
+  <img src="After.png" width="320"/>
 </p>
  
 
-## Why this exists
+## Why?
 
 **Vertical Video Automator** is a simple, free tool that saves you from manually resizing videos for TikTok, Instagram Reels, or YouTube Shorts.
 
