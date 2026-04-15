@@ -6,11 +6,15 @@ Turn horizontal videos into vertical content in seconds.
 
 ## 🎥 Before & After
 
-**Before (Horizontal):**
-![Before](Before.png)
+<p align="center">
+  <strong>Before (Horizontal)</strong><br>
+  <img src="examples/before.png" width="500"/>
+</p>
 
-**After (Vertical with Blur):**
-![After](After.png)
+<p align="center">
+  <strong>After (Vertical with Blur)</strong><br>
+  <img src="examples/after.png" width="300"/>
+</p>
 ---
 
 ## Why this exists
