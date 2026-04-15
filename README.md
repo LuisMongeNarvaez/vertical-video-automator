@@ -8,7 +8,7 @@ Turn horizontal videos into vertical content in seconds.
 
 <p align="center">
   <strong>Before (Horizontal)</strong><br>
-  <img src="Before.png" width="500"/>
+  <img src="Before.png" width="300"/>
 </p>
 
 <p align="center">
