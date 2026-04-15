@@ -1,6 +1,6 @@
 # 🎬 Vertical Video Automator (FFmpeg + Python)
 
-Turn horizontal videos into vertical content in seconds.
+**Turn horizontal videos into perfect vertical (9:16) content for TikTok, Instagram Reels, and YouTube Shorts — in seconds.**
 
 ---
 
@@ -8,55 +8,41 @@ Turn horizontal videos into vertical content in seconds.
 
 <p align="center">
   <strong>Before (Horizontal)</strong><br>
-  <img src="Before.png" width="300"/>
+  <img src="Before.png" width="320" alt="Before"/>
 </p>
 
 <p align="center">
   <strong>After (Vertical with Blur)</strong><br>
-  <img src="After.png" width="310"/>
+  <img src="After.png" width="320" alt="After"/>
 </p>
- 
 
-## Why?
+---
 
-**Vertical Video Automator** is a simple, free tool that saves you from manually resizing videos for TikTok, Instagram Reels, or YouTube Shorts.
+## Why This Tool?
 
-Instead of opening a heavy video editor and adjusting every clip by hand, this script does the work for you.
+Manually converting videos for social media is tedious and time-consuming.  
+**Vertical Video Automator** automates the entire process using Python and FFmpeg.
 
-Just drop your videos in a folder, run the script, and it automatically turns horizontal videos into clean, vertical (9:16) versions — with a smooth blurred background and your video perfectly centered.
+Just drop your horizontal videos in a folder, run the script, and get clean vertical versions with a beautiful blurred background and perfectly centered content — no black bars, no heavy video editors needed.
 
 ---
 
 ## ✨ Features
 
-- 🎥 **Smart Conversion** — Turns horizontal videos into vertical (9:16)
-- 🌫️ **Blurred Background** — No black bars, clean modern look
-- ⚡ **Batch Processing** — Process multiple videos at once
-- 🐍 **Python Powered** — Simple command-line tool
-- 🛠️ **Lightweight** — No heavy software or subscriptions needed
+- 🎥 **Smart Conversion** — Horizontal to vertical (9:16) format
+- 🌫️ **Blurred Background** — Modern look without black bars
+- ⚡ **Batch Processing** — Handle multiple videos at once
+- 🧠 **Intelligent Centering** — Keeps the main subject well-framed
+- 🐍 **Python + FFmpeg** — Lightweight and fast CLI tool
 
 ---
 
-## 🚀 Requirements
+## 🚀 Installation & Usage
 
+### Requirements
 - Python 3.8+
-- FFmpeg installed
+- FFmpeg installed and added to your PATH
 
-Check if FFmpeg is installed:
-
+Check FFmpeg:
 ```bash
-**Check FFmpeg:**
 ffmpeg -version
-
-git clone https://github.com/LuisMongeNarvaez/vertical-video-automator.git
-cd vertical-video-automator
-
-```
----
-
-## Author
-
-**Luis Monge Narvaez**  
-GitHub: [@LuisMongeNarvaez](https://github.com/LuisMongeNarvaez)
-
-
