@@ -39,6 +39,25 @@ Just drop your horizontal videos in a folder, run the script, and get clean vert
 
 ## 🚀 Installation & Usage
 
+## ✨ Installation
+
+git clone https://github.com/LuisMongeNarvaez/vertical-video-automator.git
+cd vertical-video-automator
+
+# Recommended: use a virtual environment
+python -m venv venv
+source venv/bin/activate          # On Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+## ✨ Usage
+
+# Process a single video
+python src/main.py -i your_video.mp4 -o output_vertical.mp4
+
+# Batch process all videos in a folder
+python src/main.py -i ./videos_folder/
+
 ### Requirements
 - Python 3.8+
 - FFmpeg installed and added to your PATH
@@ -46,3 +65,18 @@ Just drop your horizontal videos in a folder, run the script, and get clean vert
 Check FFmpeg:
 ```bash
 ffmpeg -version
+```
+
+## Author Luis Monge Narvaez
+GitHub: @LuisMongeNarvaez
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## Contributing 
+Contributions are welcome!
+Feel free to open an issue for bugs or feature requests, or submit a pull request to improve the code or documentation.
+
+
+
+
