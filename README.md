@@ -1,7 +1,6 @@
+# 🎬 Vertical Video Automator (FFmpeg + Python)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
-
-# 🎬 Vertical Video Automator (FFmpeg + Python)
 
 **Turn horizontal videos into perfect vertical (9:16) content for TikTok, Instagram Reels, and YouTube Shorts — in seconds.**
 
