@@ -15,7 +15,7 @@ Turn horizontal videos into vertical content in seconds.
   <strong>After (Vertical with Blur)</strong><br>
   <img src="After.png" width="300"/>
 </p>
----
+ 
 
 ## Why this exists
 
